@@ -1,6 +1,6 @@
-## *Bem vindo ao meu perfil!💟*
+## *🎀Seja bem vindo ao meu perfil!🎀*
 
--Meu nome e Agata
+-Meu nome é Agata
 
 -Estou estudando pelo Alura
 
