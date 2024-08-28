@@ -2,7 +2,7 @@
 
 -Meu nome é Agata
 
--Estou estudando pelo Alura
+-Estou estudando pelo [Alura](https://www.alura.com.br)
 
 -Estou me desenvolvendo na linguaguem javaScript
 
