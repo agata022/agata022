@@ -9,4 +9,4 @@
 -Utilizo este espaço para a minha organizaçao e o compartilhamento dos meus projetos desenvolvidos
 
 
-!.[..].(https://tenor.com/pt-BR/view/kuromi-gif-23740129)
+!.[.].(https://tenor.com/pt-BR/view/kuromi-gif-23740129)
